@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏡 Hi there! I'm Kevin, a 23-year-old degreed software developer at Firda Leeuwarden 🏫..
+🏡 Hi there! I'm Kevin, a 24-year-old degreed software developer at Firda Leeuwarden 🏫..
 
 💻 Whether creating new software or enhancing existing solutions, I enjoy bringing ideas to life for individuals and companies.
 
